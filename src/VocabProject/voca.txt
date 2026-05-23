@@ -1,0 +1,101 @@
+accommodate:수용하다
+implement:실행하다
+evaluate:평가하다
+anticipate:예상하다
+collaborate:협력하다
+allocate:할당하다
+investigate:조사하다
+postpone:연기하다
+prohibit:금지하다
+verify:확인하다
+address:다루다
+notify:통지하다
+modify:수정하다
+retain:유지하다
+terminate:끝내다
+exceed:초과하다
+specialize:전문으로 하다
+fluctuate:변동하다
+execute:실행하다
+clarify:명확히 하다
+endorse:지지하다
+ensure:보장하다
+obtain:얻다
+relocate:이전하다
+resolve:해결하다
+facilitate:촉진하다
+utilize:활용하다
+agreement:합의
+applicant:지원자
+candidate:후보자
+budget:예산
+revenue:수익
+expense:비용
+supervisor:감독관
+committee:위원회
+procedure:절차
+policy:정책
+regulation:규정
+inventory:재고
+maintenance:유지보수
+facility:시설
+warranty:보증
+proposal:제안서
+contract:계약서
+signature:서명
+appraisal:평가
+deadline:마감일
+extension:연장
+feedback:피드백
+seminar:세미나
+itinerary:일정
+destination:목적지
+compensation:보상
+contribution:기여
+distributor:유통업자
+manufacturer:제조업체
+competitor:경쟁사
+negotiation:협상
+transaction:거래
+refund:환불
+receipt:영수증
+subscription:구독
+representative:대표자
+executive:임원
+shareholder:주주
+mandatory:의무적인
+temporary:임시의
+permanent:영구적인
+innovative:혁신적인
+competitive:경쟁력 있는
+profitable:수익성 있는
+defective:결함이 있는
+fragile:부서지기 쉬운
+confidential:기밀의
+eligible:자격이 있는
+complimentary:무료의
+comprehensive:종합적인
+consecutive:연속적인
+substantial:상당한
+prompt:신속한
+reliable:믿을 수 있는
+versatile:다재다능한
+lucrative:수익성이 좋은
+feasible:실행 가능한
+unanimous:만장일치의
+tentative:잠정적인
+valid:유효한
+vacant:비어있는
+vulnerable:취약한
+unprecedented:전례 없는
+stringent:엄격한
+accordingly:그에 따라
+approximately:대략
+briefly:간단히
+consistently:일관되게
+currently:현재
+effectively:효과적으로
+frequently:자주
+immediately:즉시
+time:시간
+authorize:승인하다
