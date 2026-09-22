@@ -9,9 +9,7 @@ import java.util.Scanner;
 public class LAB_DecodeSecureTest {
     public static void main(String[] args) {
         try {
-            Scanner s = new Scanner(System.in);
             String line = "";
-            String secure = "";
             String decode = "";
             BufferedReader br = new BufferedReader(new FileReader("secure.txt"));
             FileWriter fw = new FileWriter("decodesecure.txt");
