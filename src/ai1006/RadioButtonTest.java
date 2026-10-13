@@ -42,7 +42,7 @@ public class RadioButtonTest extends JFrame {
         add("Center", lbl);
 
 
-        int w = 500, h = 500;
+        int w = 700, h = 900;
         int[] location = CenterFrame.getLocation(w, h);
         setBounds(location[0], location[1], w, h);// setLocation(x, y) + setSize(w, h)
         setVisible(true);
