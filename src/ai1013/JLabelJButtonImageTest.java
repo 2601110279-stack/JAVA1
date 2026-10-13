@@ -10,7 +10,7 @@ public class JLabelJButtonImageTest extends JFrame {
 
     ImageIcon lblIcon = new ImageIcon("imgs/chiikawa_2.jpg");
     JLabel lbl = new JLabel();
-    boolean flag = false;
+    boolean flag = true;
 
     public JLabelJButtonImageTest() {
         setTitle("ImageIcon설정 컴포넌트");
