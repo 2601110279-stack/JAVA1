@@ -13,8 +13,8 @@ public class MouseEventTest2 extends JFrame {
     public MouseEventTest2() {
         JPanel panel = new JPanel();
         JButton btnRed = new JButton("red");
-        JButton btnBlue = new JButton("Blue");
-        JButton btnGreen = new JButton("Green");
+        JButton btnBlue = new JButton("blue");
+        JButton btnGreen = new JButton("green");
         lbl.setOpaque(true);
 
         panel .add(btnRed);
